@@ -17,11 +17,16 @@ Meu nome é Raffael Cabral e sou apaixonado por tecnologia, programação e IA!
   </a>
 </p> 
 
-<p>Me aprofundando em:</p>
+<p>Aprendendo:</p>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin" />
+  </a>
+
+<p><strong>TODO</strong> list:</p>
 
 <p>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,js,ts,py,go,ruby,nodejs,nextjs,react,angular" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,go,ruby,nodejs,nextjs,react,angular,tailwind" />
   </a>
  </p>
 
