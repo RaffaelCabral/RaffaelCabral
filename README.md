@@ -1,16 +1,34 @@
-## Hi there 👋
+## Olá, boas vindas ao meu perfil!👋😄
 
-<!--
-**RaffaelCabral/RaffaelCabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Raffael Cabral e sou apaixonado por tecnologia, programação e IA!
+<br>
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/RaffaelCabral">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaelCabral&layout=compact&langs_count=6&theme=radical"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p>Trabalhando atualmente com:</p>
+
+  <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter" />
+  </a>
+</p> 
+
+<p>Me aprofundando em:</p>
+
+<p>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,js,ts,py,go,ruby,nodejs,nextjs,react,angular" />
+  </a>
+ </p>
+
+ Você pode me achar aqui 📌:
+ <div>
+<a href="mailto:cabral.raffael@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/raffaelmarques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="margin-left: 10px;"></a>
+<a href="https:www.instagra.com/raffaelcabral"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="margin-left: 10px;"> <a/>
+
+ </div>
