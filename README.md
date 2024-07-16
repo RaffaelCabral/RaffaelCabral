@@ -13,7 +13,7 @@ Meu nome é Raffael Cabral e sou apaixonado por tecnologia, programação e IA!
 
   <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart" />
   </a>
 </p> 
 
