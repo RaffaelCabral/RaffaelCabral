@@ -29,6 +29,6 @@ Meu nome é Raffael Cabral e sou apaixonado por tecnologia, programação e IA!
  <div>
 <a href="mailto:cabral.raffael@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 <a href="https://www.linkedin.com/in/raffaelmarques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="margin-left: 10px;"></a>
-<a href="https://www.instagram.com/raffaelcabral"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="margin-left: 10px;"> <a/>
+
 
  </div>
