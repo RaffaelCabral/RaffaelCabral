@@ -4,6 +4,12 @@ Meu nome é Raffael Cabral e sou apaixonado por tecnologia, programação e IA!
 <br>
 
 <div>
+<img src="https://github-readme-stats.vercel.app/api?username=RaffaelCabral&hide=contribs,prs)&theme=radical" />
+
+ </div>
+
+
+<div>
   <a href="https://github.com/RaffaelCabral">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaelCabral&layout=compact&langs_count=6&theme=radical"/>
 </div>
