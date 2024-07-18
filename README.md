@@ -14,14 +14,15 @@ Meu nome é Raffael Cabral e sou apaixonado por tecnologia, programação e IA!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaelCabral&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
+<br>
 
-<p>Trabalhando atualmente com:</p>
 
   <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart" />
   </a>
 </p> 
+<b></b>
 
 <p>Aprendendo:</p>
 <a href="https://skillicons.dev">
